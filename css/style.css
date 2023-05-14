@@ -21,8 +21,8 @@ body {
   line-height: 1.8;
   font-size: 16px;
   font-weight: 400;
-  background: #DFD3C3;
-  color: blue;
+  background: #577D86;
+  color: black;
 }
 body.menu-show {
   overflow: hidden;
@@ -1583,7 +1583,7 @@ input[type='text'] {
 
 .colorlib-social-icons i {
   font-size: 24px;
-  color: #ffb4b4;
+  color: #19376D;
 }
 
 #footer {
